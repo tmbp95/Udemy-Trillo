@@ -3,17 +3,17 @@
 ### Course - [Link](https://www.udemy.com/advanced-css-and-sass/?siteID=c4ytgEGG5fA-BqYe7RrPdFDw3BPvlgbt_g&LSNPUBID=c4ytgEGG5fA)
 ### Inside <-> Advanced CSS And Sass Take Your CSS To The Next Level!
 #### 07 - Trillo Project Master Flexbox!
-- [ ] 067 Section Intro
-- [ ] 068 Why Flexbox: An Overview of the Philosophy Behind Flexbox
-- [ ] 069 A Basic Intro to Flexbox: The Flex Container
-- [ ] 070 A Basic Intro to Flexbox: Flex Items
-- [ ] 071 A Basic Intro to Flexbox: Adding More Flex Items
-- [ ] 072 Project Overview
-- [ ] 073 Defining Project Settings and Custom Properties
-- [ ] 074 Building the Overall Layout
-- [ ] 075 Building the Header - Part 1
-- [ ] 076 Building the Header - Part 2
-- [ ] 077 Building the Header - Part 3
+- [x] 067 Section Intro
+- [x] 068 Why Flexbox: An Overview of the Philosophy Behind Flexbox
+- [x] 069 A Basic Intro to Flexbox: The Flex Container
+- [x] 070 A Basic Intro to Flexbox: Flex Items
+- [x] 071 A Basic Intro to Flexbox: Adding More Flex Items
+- [x] 072 Project Overview
+- [x] 073 Defining Project Settings and Custom Properties
+- [x] 074 Building the Overall Layout
+- [x] 075 Building the Header - Part 1
+- [x] 076 Building the Header - Part 2
+- [x] 077 Building the Header - Part 3
 - [ ] 078 Building the Navigation - Part 1
 - [ ] 079 Building the Navigation - Part 2
 - [ ] 080 Building the Hotel Overview - Part 1
