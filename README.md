@@ -14,8 +14,8 @@
 - [x] 075 Building the Header - Part 1
 - [x] 076 Building the Header - Part 2
 - [x] 077 Building the Header - Part 3
-- [ ] 078 Building the Navigation - Part 1
-- [ ] 079 Building the Navigation - Part 2
+- [x] 078 Building the Navigation - Part 1
+- [x] 079 Building the Navigation - Part 2
 - [ ] 080 Building the Hotel Overview - Part 1
 - [ ] 081 Building the Hotel Overview - Part 2
 - [ ] 082 Building the Description Section - Part 1
