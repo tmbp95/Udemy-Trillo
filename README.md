@@ -18,10 +18,10 @@
 - [x] 079 Building the Navigation - Part 2
 - [x] 080 Building the Hotel Overview - Part 1
 - [x] 081 Building the Hotel Overview - Part 2
-- [ ] 082 Building the Description Section - Part 1
-- [ ] 083 Building the Description Section - Part 2
-- [ ] 084 Building the User Reviews Section
-- [ ] 085 Building the CTA Section
+- [x] 082 Building the Description Section - Part 1
+- [x] 083 Building the Description Section - Part 2
+- [x] 084 Building the User Reviews Section
+- [x] 085 Building the CTA Section
 - [ ] 086 Writing Media Queries - Part 1
 - [ ] 087 Writing Media Queries - Part 2
 - [ ] 088 Wrapping up the Trillo Project: Final Considerations 
