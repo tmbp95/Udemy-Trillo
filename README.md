@@ -22,6 +22,6 @@
 - [x] 083 Building the Description Section - Part 2
 - [x] 084 Building the User Reviews Section
 - [x] 085 Building the CTA Section
-- [ ] 086 Writing Media Queries - Part 1
-- [ ] 087 Writing Media Queries - Part 2
-- [ ] 088 Wrapping up the Trillo Project: Final Considerations 
+- [x] 086 Writing Media Queries - Part 1
+- [x] 087 Writing Media Queries - Part 2
+- [x] 088 Wrapping up the Trillo Project: Final Considerations 
